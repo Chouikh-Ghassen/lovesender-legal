@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LoveSender — Terms of Service</title>
+
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #fdf6f0;
+      color: #1c0a12;
+      line-height: 1.7;
+    }
+    header {
+      background: #2a0815;
+      padding: 40px 24px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 28px;
+      font-weight: 300;
+      color: #fff;
+    }
+    header h1 span { font-style: italic; color: #f7c5d4; }
+    header p {
+      font-size: 13px;
+      color: rgba(255,255,255,0.4);
+      margin-top: 8px;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 40px 24px 80px;
+    }
+    h2 {
+      font-size: 16px;
+      font-weight: 600;
+      color: #6b1530;
+      margin-top: 36px;
+      margin-bottom: 10px;
+    }
+    p { font-size: 14px; color: #3a1a24; margin-bottom: 12px; }
+    ul {
+      margin: 8px 0 12px 20px;
+      font-size: 14px;
+      color: #3a1a24;
+    }
+    ul li { margin-bottom: 6px; }
+    a { color: #c94070; text-decoration: none; }
+    .updated {
+      font-size: 12px;
+      color: #9a6070;
+      margin-bottom: 32px;
+      padding-bottom: 24px;
+      border-bottom: 1px solid #f7c5d4;
+    }
+    footer {
+      text-align: center;
+      padding: 24px;
+      font-size: 12px;
+      color: #9a6070;
+      border-top: 1px solid #f7c5d4;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>LoveSender <span>Terms of Service</span></h1>
+  <p>Please read these terms carefully before using LoveSender</p>
+</header>
+
+<div class="container">
+
+  <p class="updated">Last updated: April 2026</p>
+
+  <p>
+    Welcome to LoveSender ("we", "our", or "us"). By using the LoveSender mobile application,
+    you agree to these Terms of Service. If you do not agree, please do not use the app.
+  </p>
+
+  <h2>1. Eligibility</h2>
+  <p>
+    You must be at least 16 years old to use LoveSender. By using the app, you confirm that
+    you meet this requirement.
+  </p>
+
+  <h2>2. Description of Service</h2>
+  <p>
+    LoveSender allows users to connect with other users and send emotional expressions such as
+    feelings, messages, and drawings. Users may also receive notifications and manage private connections.
+  </p>
+
+  <h2>3. User Accounts</h2>
+  <p>
+    You are responsible for maintaining the security of your account. You agree to provide
+    accurate information and to keep your login credentials secure.
+  </p>
+
+  <h2>4. User Content</h2>
+  <p>
+    Users may send messages, drawings, and other content. You are solely responsible for any content
+    you create or share through LoveSender.
+  </p>
+
+  <p>
+    By using the app, you agree not to send content that is illegal, abusive, harassing, harmful,
+    or violates the rights of others.
+  </p>
+
+  <h2>5. Connections</h2>
+  <p>
+    Users may connect with others through invitation or acceptance. Connections are private and
+    controlled by the users. You may remove connections at any time.
+  </p>
+
+  <h2>6. Prohibited Use</h2>
+  <p>You agree not to:</p>
+  <ul>
+    <li>Use the app for illegal or harmful purposes</li>
+    <li>Harass, abuse, or threaten other users</li>
+    <li>Send offensive or inappropriate content</li>
+    <li>Attempt to access other users’ accounts or data</li>
+    <li>Reverse engineer or exploit the app</li>
+  </ul>
+
+  <h2>7. Subscriptions & Payments</h2>
+  <p>
+    Some features of LoveSender require a paid subscription (monthly or lifetime).
+    All payments are processed securely through
+    <strong>Google Play</strong> and are subject to its billing policies.
+  </p>
+
+  <p>
+    Subscriptions may auto-renew unless canceled. Refunds are handled according to
+    Google Play policies.
+  </p>
+
+  <h2>8. User Content & Responsibility</h2>
+  <p>
+    We do not actively monitor user content. However, we reserve the right to remove content or
+    suspend accounts that violate these Terms.
+  </p>
+
+  <h2>9. Termination</h2>
+  <p>
+    We reserve the right to suspend or terminate your account at any time if you violate these Terms
+    or misuse the service.
+  </p>
+
+  <h2>10. Limitation of Liability</h2>
+  <p>
+    LoveSender is provided "as is" without warranties of any kind. We are not responsible for:
+  </p>
+  <ul>
+    <li>User interactions or disputes</li>
+    <li>Emotional or personal outcomes from using the app</li>
+    <li>Loss of data or service interruptions</li>
+  </ul>
+
+  <h2>11. Changes to the Service</h2>
+  <p>
+    We may update, modify, or discontinue features of the app at any time without prior notice.
+  </p>
+
+  <h2>12. Changes to Terms</h2>
+  <p>
+    We may update these Terms from time to time. Continued use of the app means you accept the updated Terms.
+  </p>
+
+  <h2>13. Contact</h2>
+  <p>
+    If you have any questions about these Terms, contact us at:
+    <br/><br/>
+    <a href="mailto:caffardtv@gmail.com">caffardtv@gmail.com</a>
+  </p>
+
+</div>
+
+<footer>
+  © 2026 LoveSender. All rights reserved.
+</footer>
+
+</body>
+</html>
